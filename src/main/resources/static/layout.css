@@ -1,0 +1,18 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    background-color: blue;
+    color: white;
+    text-align: left;
+    padding: 12px 0;
+    font-size: 24px;
+    z-index: 1000;
+    padding-left: 30px;
+}
+
+.container {
+    padding-top: 80px; /* Push content down */
+
+}
+font-weight: bold;

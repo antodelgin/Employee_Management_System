@@ -1,0 +1,15 @@
+.container {
+    max-width: 500px;
+}
+
+.form-label {
+    font-size: 0.9rem; margin-bottom: 2px;
+}
+
+.form-control {
+    padding: 5px; font-size: 0.9rem;
+}
+
+.error {
+    font-size: 0.8rem; color: red;
+}
